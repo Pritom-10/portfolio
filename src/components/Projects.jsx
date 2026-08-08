@@ -3,7 +3,7 @@ import { Github, ExternalLink } from 'lucide-react';
 import studynookImage from '../images/studynook.PNG';
 import LiveStockImage from '../images/livestock.PNG';
 import keenKeeperImage from '../images/keenkeeper.PNG';
-
+//.
 const Projects = () => {
   const projects = [
     {
